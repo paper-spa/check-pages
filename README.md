@@ -1,1 +1,1 @@
-# check-pages!
+# check-pages
